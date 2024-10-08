@@ -8,9 +8,9 @@ In order for this to work there are a couple prerequisites
 free account, and I'm unsure if it renews or not. The Assembly_Key file has a placeholder fake key that 
 you need to modify and change out with your own key. Simple copy and paste :)
 
-- Make sure ffmpeg is installed in your computer. On make this is a bit simpler, I think it is just using whatever 
+- Make sure ffmpeg is installed on your computer. To make this is a bit simpler, I think it is just using whatever 
 package installer you have in your virtual environment to get ffmpeg up and running. I made this on windows
-however which there are a couple different ways to do this. Personally I installed it manually through
+however which means there are a couple different ways to do this. Personally I installed it manually through
 the website and included it in the "Path" for the computer. In your virtual environment, the "subprocess"
 takes care of any future use for ffmpeg. 
 
